@@ -137,7 +137,6 @@ html {
   }
 }
 
-/*
 .container {
   min-height: 100vh;
   display: flex;
@@ -147,6 +146,7 @@ html {
   background: var(--greyLight-1);
 }
 
+/*
 .components {
   width: 75rem;
   height: 40rem;

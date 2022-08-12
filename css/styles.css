@@ -131,14 +131,13 @@ html {
   background: var(--greyLight-1);
 }
 
-/*
 @media screen and (min-width: 900px) {
   html {
     font-size: 75%;
   }
 }
 
-
+/*
 .container {
   min-height: 100vh;
   display: flex;

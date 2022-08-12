@@ -762,7 +762,7 @@ html {
   justify-content: space-between;
 }
 
-/*.icon__account, .icon__home, .icon__settings {
+.icon__account, .icon__home, .icon__settings {
   width: 4rem;
   height: 4rem;
   border-radius: 50%;
@@ -775,7 +775,8 @@ html {
   color: var(--greyDark);
   transition: all 0.5s ease;
 }
-.icon__account:active, .icon__home:active, .icon__settings:active {
+
+/*.icon__account:active, .icon__home:active, .icon__settings:active {
   box-shadow: inset 0.2rem 0.2rem 0.5rem var(--greyLight-2), inset -0.2rem -0.2rem 0.5rem var(--white);
   color: var(--primary);
 }

@@ -216,7 +216,7 @@ html {
   opacity: 1;
 }
 
-/*.switch input:checked ~ label::after {
+.switch input:checked~label::after {
   left: 57%;
   background: var(--greyLight-1);
 }

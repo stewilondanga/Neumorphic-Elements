@@ -453,11 +453,11 @@ html {
   top: 5.6rem;
 }
 
-/*
 .clock .marker__1 {
   top: 2%;
 }
-.clock .marker__2 {
+
+/*.clock .marker__2 {
   top: 98%;
   transform: translateY(-0.6rem);
 }

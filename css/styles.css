@@ -380,14 +380,15 @@ html {
   position: relative;
 }
 
-/*.clock .hand {
+.clock .hand {
   position: absolute;
   transform-origin: bottom;
   bottom: 6rem;
   border-radius: 0.2rem;
   z-index: 200;
 }
-.clock .hours {
+
+/*.clock .hours {
   width: 0.4rem;
   height: 3.2rem;
   background: var(--greyLight-3);

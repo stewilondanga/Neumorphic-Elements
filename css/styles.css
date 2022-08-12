@@ -423,7 +423,7 @@ html {
   box-shadow: inset 0.2rem 0.2rem 0.5rem var(--greyLight-2), inset -0.2rem -0.2rem 0.5rem var(--white);
 }
 
-/*.clock .marker::after {
+.clock .marker::after {
   content: "";
   width: 60%;
   height: 60%;
@@ -434,7 +434,8 @@ html {
   left: 20%;
   filter: blur(1px);
 }
-.clock .marker__1, .clock .marker__2, .clock .marker__3, .clock .marker__4 {
+
+/*.clock .marker__1, .clock .marker__2, .clock .marker__3, .clock .marker__4 {
   position: absolute;
   border-radius: 0.1rem;
   box-shadow: inset 1px 1px 1px var(--greyLight-2), inset -1px -1px 1px var(--white);

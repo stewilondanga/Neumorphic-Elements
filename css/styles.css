@@ -725,10 +725,11 @@ html {
   transition: all 0.5s ease;
 }
 
-/*.segmented-control__1:hover, .segmented-control__2:hover, .segmented-control__3:hover {
+.segmented-control__1:hover, .segmented-control__2:hover, .segmented-control__3:hover {
   color: var(--primary);
 }
-.segmented-control__color {
+
+/*.segmented-control__color {
   position: absolute;
   height: 3.4rem;
   width: 6.2rem;

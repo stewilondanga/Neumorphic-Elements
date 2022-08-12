@@ -859,20 +859,23 @@ html {
   transition: opacity 0.3s ease;
 }
 
-/*@-webkit-keyframes waves {
+@-webkit-keyframes waves {
   0% {
     transform: scale(1);
     opacity: 1;
   }
+
   50% {
     opacity: 1;
   }
+
   100% {
     transform: scale(2);
     opacity: 0;
   }
 }
 
+/*
 @keyframes waves {
   0% {
     transform: scale(1);

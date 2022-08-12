@@ -556,10 +556,11 @@ html {
   transition: all 0.2s linear;
 }
 
-/*.circle__btn .play.visibility {
+.circle__btn .play.visibility {
   opacity: 1;
 }
-.circle__btn .pause {
+
+/*.circle__btn .pause {
   position: absolute;
   transition: all 0.2s linear;
 }

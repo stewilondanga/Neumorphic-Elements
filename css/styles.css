@@ -497,12 +497,13 @@ html {
   color: var(--primary);
 }
 
-/*.chip p {
+.chip p {
   font-size: 0.9rem;
   margin-left: -1.8rem;
   color: var(--greyDark);
 }
-.chip__close {
+
+/*.chip__close {
   width: 1.6rem;
   height: 1.6rem;
   margin: 0 0.5rem;

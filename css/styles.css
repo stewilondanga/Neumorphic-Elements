@@ -664,10 +664,11 @@ html {
   color: var(--greyLight-3);
 }
 
-/*.search__input:-ms-input-placeholder {
+.search__input:-ms-input-placeholder {
   color: var(--greyLight-3);
 }
-.search__input::placeholder {
+
+/*.search__input::placeholder {
   color: var(--greyLight-3);
 }
 .search__input:focus {

@@ -339,10 +339,11 @@ html {
   color: var(--greyLight-1);
 }
 
-/*.btn__primary:hover {
+.btn__primary:hover {
   color: var(--white);
 }
-.btn__primary:active {
+
+/*.btn__primary:active {
   box-shadow: inset 0.2rem 0.2rem 1rem var(--primary-dark), inset -0.2rem -0.2rem 1rem var(--primary-light);
 }
 .btn__secondary {

@@ -447,11 +447,13 @@ html {
   left: 5.6rem;
 }
 
-/*.clock .marker__3, .clock .marker__4 {
+.clock .marker__3, .clock .marker__4 {
   width: 0.6rem;
   height: 0.2rem;
   top: 5.6rem;
 }
+
+/*
 .clock .marker__1 {
   top: 2%;
 }

@@ -586,11 +586,12 @@ html {
   animation: waves 4s linear infinite;
 }
 
-/*.circle__back-1.paused {
+.circle__back-1.paused {
   -webkit-animation-play-state: paused;
-          animation-play-state: paused;
+  animation-play-state: paused;
 }
-.circle__back-2 {
+
+/*.circle__back-2 {
   box-shadow: 0.4rem 0.4rem 0.8rem var(--greyLight-2), -0.4rem -0.4rem 0.8rem var(--white);
   -webkit-animation: waves 4s linear 2s infinite;
           animation: waves 4s linear 2s infinite;

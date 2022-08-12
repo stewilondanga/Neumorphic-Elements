@@ -621,10 +621,11 @@ html {
   color: var(--greyDark);
 }
 
-/*.form__input::-moz-placeholder {
+.form__input::-moz-placeholder {
   color: var(--greyLight-3);
 }
-.form__input:-ms-input-placeholder {
+
+/*.form__input:-ms-input-placeholder {
   color: var(--greyLight-3);
 }
 .form__input::placeholder {

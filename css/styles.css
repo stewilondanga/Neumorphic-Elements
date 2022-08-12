@@ -318,7 +318,7 @@ html {
 }
 
 /*  BUTTONS  */
-/*.btn {
+.btn {
   width: 15rem;
   height: 4rem;
   border-radius: 1rem;
@@ -330,7 +330,8 @@ html {
   cursor: pointer;
   transition: 0.3s ease;
 }
-.btn__primary {
+
+/*.btn__primary {
   grid-column: 1/2;
   grid-row: 4/5;
   background: var(--primary);

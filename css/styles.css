@@ -819,10 +819,11 @@ html {
   align-items: center;
 }
 
-/*.slider__btn:hover ~ .slider__tooltip {
+.slider__btn:hover~.slider__tooltip {
   opacity: 1;
 }
-.slider__btn::after {
+
+/*.slider__btn::after {
   content: "";
   position: absolute;
   width: 0.8rem;

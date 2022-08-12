@@ -806,7 +806,7 @@ html {
   align-items: center;
 }
 
-/*.slider__btn {
+.slider__btn {
   width: 2rem;
   height: 2rem;
   border-radius: 50%;
@@ -818,7 +818,8 @@ html {
   justify-content: center;
   align-items: center;
 }
-.slider__btn:hover ~ .slider__tooltip {
+
+/*.slider__btn:hover ~ .slider__tooltip {
   opacity: 1;
 }
 .slider__btn::after {

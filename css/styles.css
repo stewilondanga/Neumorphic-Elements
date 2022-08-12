@@ -230,10 +230,11 @@ html {
   justify-content: center;
 }
 
-/*.checkbox input {
+.checkbox input {
   display: none;
 }
-.checkbox__1, .checkbox__2 {
+
+/*.checkbox__1, .checkbox__2 {
   width: 6rem;
   display: flex;
   justify-content: center;

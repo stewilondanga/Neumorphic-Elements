@@ -291,7 +291,7 @@ html {
   background: var(--primary);
 }
 
-/*.radio__1 label, .radio__2 label {
+.radio__1 label, .radio__2 label {
   box-shadow: 0.3rem 0.3rem 0.6rem var(--greyLight-2), -0.2rem -0.2rem 0.5rem var(--white);
   position: relative;
   display: flex;
@@ -302,7 +302,8 @@ html {
   height: 2.8rem;
   border-radius: 50%;
 }
-.radio__1 label:hover::after, .radio__2 label:hover::after {
+
+/*.radio__1 label:hover::after, .radio__2 label:hover::after {
   background: var(--primary);
 }
 .radio__1 label::after, .radio__2 label::after {

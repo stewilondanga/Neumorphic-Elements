@@ -560,11 +560,12 @@ html {
   opacity: 1;
 }
 
-/*.circle__btn .pause {
+.circle__btn .pause {
   position: absolute;
   transition: all 0.2s linear;
 }
-.circle__btn .pause.visibility {
+
+/*.circle__btn .pause.visibility {
   opacity: 0;
 }
 .circle__back-1, .circle__back-2 {

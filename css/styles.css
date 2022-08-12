@@ -101,13 +101,13 @@
   transition-delay: 0.4s;
 }
 
-/*a {
+a {
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 20px;
   text-decoration: none;
 }
 
-:root {
+/*:root {
   --primary-light: #8abdff;
   --primary: #6d5dfc;
   --primary-dark: #5b0eeb;

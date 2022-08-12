@@ -162,7 +162,7 @@ html {
 }
 
 /*  SWITCH  */
-/*.switch {
+.switch {
   grid-column: 1/2;
   display: grid;
   grid-template-columns: repeat(2, -webkit-min-content);
@@ -170,7 +170,8 @@ html {
   grid-gap: 3rem;
   justify-self: center;
 }
-.switch input {
+
+/*.switch input {
   display: none;
 }
 .switch__1, .switch__2 {

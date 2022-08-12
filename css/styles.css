@@ -303,10 +303,11 @@ html {
   border-radius: 50%;
 }
 
-/*.radio__1 label:hover::after, .radio__2 label:hover::after {
+.radio__1 label:hover::after, .radio__2 label:hover::after {
   background: var(--primary);
 }
-.radio__1 label::after, .radio__2 label::after {
+
+/*.radio__1 label::after, .radio__2 label::after {
   content: "";
   position: absolute;
   width: 1.4rem;

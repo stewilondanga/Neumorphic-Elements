@@ -400,12 +400,13 @@ html {
   background: var(--greyDark);
 }
 
-/*.clock .seconds {
+.clock .seconds {
   width: 0.2rem;
   height: 5.2rem;
   background: var(--primary);
 }
-.clock .point {
+
+/*.clock .point {
   position: absolute;
   width: 0.8rem;
   height: 0.8rem;

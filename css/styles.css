@@ -222,14 +222,15 @@ html {
 }
 
 /*  CHECKBOX  */
-/*.checkbox {
+.checkbox {
   grid-column: 1/2;
   display: grid;
   grid-template-columns: repeat(2, 6rem);
   grid-gap: 3rem;
   justify-content: center;
 }
-.checkbox input {
+
+/*.checkbox input {
   display: none;
 }
 .checkbox__1, .checkbox__2 {

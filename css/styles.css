@@ -212,10 +212,11 @@ html {
   transition: all 0.4s ease;
 }
 
-/*.switch input:checked ~ label::before {
+.switch input:checked~label::before {
   opacity: 1;
 }
-.switch input:checked ~ label::after {
+
+/*.switch input:checked ~ label::after {
   left: 57%;
   background: var(--greyLight-1);
 }

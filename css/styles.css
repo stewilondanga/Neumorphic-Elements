@@ -472,7 +472,7 @@ html {
 }
 
 /*  CHIP  */
-/*.chip {
+.chip {
   grid-column: 2/3;
   grid-row: 3/4;
   justify-self: center;
@@ -484,7 +484,8 @@ html {
   justify-content: space-between;
   align-items: center;
 }
-.chip__icon {
+
+/*.chip__icon {
   width: 3rem;
   height: 3rem;
   border-radius: 1rem;

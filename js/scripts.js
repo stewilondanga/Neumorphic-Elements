@@ -4,7 +4,7 @@ const minutes = document.querySelector('.minutes');
 const seconds = document.querySelector('.seconds');
 
 /*  play button */
-/*const play = document.querySelector('.play');
+const play = document.querySelector('.play');
 const pause = document.querySelector('.pause');
 const playBtn = document.querySelector('.circle__btn');
 const wave1 = document.querySelector('.circle__back-1');

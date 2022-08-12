@@ -388,12 +388,13 @@ html {
   z-index: 200;
 }
 
-/*.clock .hours {
+.clock .hours {
   width: 0.4rem;
   height: 3.2rem;
   background: var(--greyLight-3);
 }
-.clock .minutes {
+
+/*.clock .minutes {
   width: 0.4rem;
   height: 4.6rem;
   background: var(--greyDark);

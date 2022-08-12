@@ -704,10 +704,11 @@ html {
   position: relative;
 }
 
-/*.segmented-control input {
+.segmented-control input {
   display: none;
 }
-.segmented-control > input:checked + label {
+
+/*.segmented-control > input:checked + label {
   transition: all 0.5s ease;
   color: var(--primary);
 }

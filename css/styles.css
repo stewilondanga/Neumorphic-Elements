@@ -124,18 +124,20 @@ a {
   box-sizing: inherit;
 }
 
-/*
 html {
   box-sizing: border-box;
   font-size: 62.5%;
   overflow-y: scroll;
   background: var(--greyLight-1);
 }
+
+/*
 @media screen and (min-width: 900px) {
   html {
     font-size: 75%;
   }
 }
+
 
 .container {
   min-height: 100vh;

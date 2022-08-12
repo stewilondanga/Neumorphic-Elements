@@ -647,7 +647,7 @@ html {
   align-items: center;
 }
 
-/*.search__input {
+.search__input {
   width: 20.4rem;
   height: 4rem;
   border: none;
@@ -659,7 +659,8 @@ html {
   font-family: inherit;
   color: var(--greyDark);
 }
-.search__input::-moz-placeholder {
+
+/*.search__input::-moz-placeholder {
   color: var(--greyLight-3);
 }
 .search__input:-ms-input-placeholder {

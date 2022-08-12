@@ -514,7 +514,7 @@ html {
 }
 
 /*  PLAY BUTTON  */
-/*.circle {
+.circle {
   grid-column: 2/3;
   grid-row: 4/6;
   width: 9rem;
@@ -526,7 +526,8 @@ html {
   justify-items: center;
   align-items: center;
 }
-.circle__btn {
+
+/*.circle__btn {
   grid-row: 1/2;
   grid-column: 1/2;
   width: 6rem;

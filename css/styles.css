@@ -692,7 +692,7 @@ html {
 }
 
 /*  SEGMENTED-CONTROL */
-/*.segmented-control {
+.segmented-control {
   grid-column: 3/4;
   grid-row: 1/2;
   width: 20.4rem;
@@ -703,7 +703,8 @@ html {
   align-items: center;
   position: relative;
 }
-.segmented-control input {
+
+/*.segmented-control input {
   display: none;
 }
 .segmented-control > input:checked + label {

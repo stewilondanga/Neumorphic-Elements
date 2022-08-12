@@ -272,13 +272,14 @@ html {
 }
 
 /*  RADIO  */
-/*.radio {
+.radio {
   grid-column: 1/2;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   justify-items: center;
 }
-.radio input {
+
+/*.radio input {
   display: none;
 }
 .radio__1 input:checked ~ label, .radio__2 input:checked ~ label {

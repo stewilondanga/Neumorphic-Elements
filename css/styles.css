@@ -485,7 +485,7 @@ html {
   align-items: center;
 }
 
-/*.chip__icon {
+.chip__icon {
   width: 3rem;
   height: 3rem;
   border-radius: 1rem;
@@ -496,7 +496,8 @@ html {
   font-size: 1.8rem;
   color: var(--primary);
 }
-.chip p {
+
+/*.chip p {
   font-size: 0.9rem;
   margin-left: -1.8rem;
   color: var(--greyDark);

@@ -565,10 +565,11 @@ html {
   transition: all 0.2s linear;
 }
 
-/*.circle__btn .pause.visibility {
+.circle__btn .pause.visibility {
   opacity: 0;
 }
-.circle__back-1, .circle__back-2 {
+
+/*.circle__back-1, .circle__back-2 {
   grid-row: 1/2;
   grid-column: 1/2;
   width: 6rem;

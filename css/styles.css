@@ -739,12 +739,12 @@ html {
   pointer-events: none;
 }
 
-/*#tab-1:checked ~ .segmented-control__color {
+#tab-1:checked~.segmented-control__color {
   transform: translateX(0);
   transition: transform 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 
-#tab-2:checked ~ .segmented-control__color {
+/*#tab-2:checked ~ .segmented-control__color {
   transform: translateX(6.8rem);
   transition: transform 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
 }

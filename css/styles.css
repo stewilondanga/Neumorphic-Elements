@@ -435,12 +435,13 @@ html {
   filter: blur(1px);
 }
 
-/*.clock .marker__1, .clock .marker__2, .clock .marker__3, .clock .marker__4 {
+.clock .marker__1, .clock .marker__2, .clock .marker__3, .clock .marker__4 {
   position: absolute;
   border-radius: 0.1rem;
   box-shadow: inset 1px 1px 1px var(--greyLight-2), inset -1px -1px 1px var(--white);
 }
-.clock .marker__1, .clock .marker__2 {
+
+/*.clock .marker__1, .clock .marker__2 {
   width: 0.2rem;
   height: 0.6rem;
   left: 5.6rem;

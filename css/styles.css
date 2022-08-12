@@ -603,11 +603,12 @@ html {
 }
 
 /*  FORM  */
-/*.form {
+.form {
   grid-column: 3/4;
   grid-row: 3/4;
 }
-.form__input {
+
+/*.form__input {
   width: 20.4rem;
   height: 4rem;
   border: none;

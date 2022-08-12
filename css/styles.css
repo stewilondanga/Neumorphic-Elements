@@ -729,7 +729,7 @@ html {
   color: var(--primary);
 }
 
-/*.segmented-control__color {
+.segmented-control__color {
   position: absolute;
   height: 3.4rem;
   width: 6.2rem;
@@ -739,7 +739,7 @@ html {
   pointer-events: none;
 }
 
-#tab-1:checked ~ .segmented-control__color {
+/*#tab-1:checked ~ .segmented-control__color {
   transform: translateX(0);
   transition: transform 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
 }

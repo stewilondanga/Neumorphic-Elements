@@ -755,13 +755,14 @@ html {
 }
 
 /*  ICONS  */
-/*.icon {
+.icon {
   grid-column: 3/4;
   grid-row: 4/5;
   display: flex;
   justify-content: space-between;
 }
-.icon__account, .icon__home, .icon__settings {
+
+/*.icon__account, .icon__home, .icon__settings {
   width: 4rem;
   height: 4rem;
   border-radius: 50%;

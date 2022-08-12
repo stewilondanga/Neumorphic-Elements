@@ -677,9 +677,10 @@ html {
   box-shadow: 0.3rem 0.3rem 0.6rem var(--greyLight-2), -0.2rem -0.2rem 0.5rem var(--white);
 }
 
-/*.search__input:focus + .search__icon {
+.search__input:focus+.search__icon {
   color: var(--primary);
 }
+
 .search__icon {
   height: 2rem;
   position: absolute;

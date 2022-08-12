@@ -107,7 +107,7 @@ a {
   text-decoration: none;
 }
 
-/*:root {
+:root {
   --primary-light: #8abdff;
   --primary: #6d5dfc;
   --primary-dark: #5b0eeb;
@@ -118,6 +118,7 @@ a {
   --greyDark: #9baacf;
 }
 
+/*
 *, *::before, *::after {
   margin: 0;
   padding: 0;

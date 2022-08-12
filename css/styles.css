@@ -843,7 +843,7 @@ html {
   background: linear-gradient(-1deg, var(--primary-dark) 0%, var(--primary) 50%, var(--primary-light) 100%);
 }
 
-/*.slider__tooltip {
+.slider__tooltip {
   position: absolute;
   top: 2.6rem;
   height: 2.5rem;
@@ -859,7 +859,7 @@ html {
   transition: opacity 0.3s ease;
 }
 
-@-webkit-keyframes waves {
+/*@-webkit-keyframes waves {
   0% {
     transform: scale(1);
     opacity: 1;

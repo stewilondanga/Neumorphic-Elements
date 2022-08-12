@@ -625,10 +625,11 @@ html {
   color: var(--greyLight-3);
 }
 
-/*.form__input:-ms-input-placeholder {
+.form__input:-ms-input-placeholder {
   color: var(--greyLight-3);
 }
-.form__input::placeholder {
+
+/*.form__input::placeholder {
   color: var(--greyLight-3);
 }
 .form__input:focus {

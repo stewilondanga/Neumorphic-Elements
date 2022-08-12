@@ -406,7 +406,7 @@ html {
   background: var(--primary);
 }
 
-/*.clock .point {
+.clock .point {
   position: absolute;
   width: 0.8rem;
   height: 0.8rem;
@@ -414,7 +414,8 @@ html {
   background: var(--primary);
   z-index: 300;
 }
-.clock .marker {
+
+/*.clock .marker {
   width: 95%;
   height: 95%;
   border-radius: 50%;

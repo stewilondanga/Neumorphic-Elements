@@ -394,12 +394,13 @@ html {
   background: var(--greyLight-3);
 }
 
-/*.clock .minutes {
+.clock .minutes {
   width: 0.4rem;
   height: 4.6rem;
   background: var(--greyDark);
 }
-.clock .seconds {
+
+/*.clock .seconds {
   width: 0.2rem;
   height: 5.2rem;
   background: var(--primary);

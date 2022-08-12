@@ -579,13 +579,14 @@ html {
   z-index: 100;
 }
 
-/*.circle__back-1 {
+.circle__back-1 {
   box-shadow: 0.4rem 0.4rem 0.8rem var(--greyLight-2), -0.4rem -0.4rem 0.8rem var(--white);
   background: linear-gradient(to bottom right, var(--greyLight-2) 0%, var(--white) 100%);
   -webkit-animation: waves 4s linear infinite;
-          animation: waves 4s linear infinite;
+  animation: waves 4s linear infinite;
 }
-.circle__back-1.paused {
+
+/*.circle__back-1.paused {
   -webkit-animation-play-state: paused;
           animation-play-state: paused;
 }

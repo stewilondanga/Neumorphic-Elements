@@ -462,10 +462,11 @@ html {
   transform: translateY(-0.6rem);
 }
 
-/*.clock .marker__3 {
+.clock .marker__3 {
   left: 2%;
 }
-.clock .marker__4 {
+
+/*.clock .marker__4 {
   left: 98%;
   transform: translateX(-0.6rem);
 }

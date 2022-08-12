@@ -713,7 +713,7 @@ html {
   color: var(--primary);
 }
 
-/*.segmented-control__1, .segmented-control__2, .segmented-control__3 {
+.segmented-control__1, .segmented-control__2, .segmented-control__3 {
   width: 6.8rem;
   height: 3.6rem;
   font-size: 1.4rem;
@@ -724,7 +724,8 @@ html {
   color: var(--greyDark);
   transition: all 0.5s ease;
 }
-.segmented-control__1:hover, .segmented-control__2:hover, .segmented-control__3:hover {
+
+/*.segmented-control__1:hover, .segmented-control__2:hover, .segmented-control__3:hover {
   color: var(--primary);
 }
 .segmented-control__color {
